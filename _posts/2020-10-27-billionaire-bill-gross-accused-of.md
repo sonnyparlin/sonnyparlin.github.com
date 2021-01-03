@@ -13,6 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-395520373085304967
 blogger_orig_url: https://www.sparl.in/2020/10/billionaire-bill-gross-accused-of.html
 ---
 
-"New York (CNN Business)Bond billionaire [Bill Gross](https://www.cnn.com/2013/04/08/us/bill-gross-fast-facts/index.html) is involved in a legal battle with his tech entrepreneur neighbor over a $1 million sculpture and allegations that Gross blasted the "Gilligan's Island" theme song on a loop from his house"
+"New York Bond billionaire [Bill Gross](https://www.cnn.com/2013/04/08/us/bill-gross-fast-facts/index.html) is involved in a legal battle with his tech entrepreneur neighbor over a $1 million sculpture and allegations that Gross blasted the "Gilligan's Island" theme song on a loop from his house"
 
 [Source](https://www.cnn.com/2020/10/27/business/bill-gross-pimco-neighbor-lawsuit/index.html).

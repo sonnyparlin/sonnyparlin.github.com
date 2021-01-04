@@ -14,6 +14,8 @@ blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-233976210698194154
 blogger_orig_url: https://www.sparl.in/2020/11/are-we-all-unconscious-racists.html
 ---
 
-A deep dive into the science behind implicit bias. "Few academic ideas have been as eagerly absorbed into public discourse in recent years as 'implicit bias.' Embraced by a president, a would-be president, and the nation’s top law-enforcement official, the implicit-bias conceit has launched a movement to remove the concept of individual agency from the law and spawned a multimillion-dollar consulting industry. The statistical basis on which it rests is now crumbling, but don’t expect its influence to wane anytime soon.
+A deep dive into the science behind implicit bias.
+
+> Few academic ideas have been as eagerly absorbed into public discourse in recent years as 'implicit bias.' Embraced by a president, a would-be president, and the nation’s top law-enforcement official, the implicit-bias conceit has launched a movement to remove the concept of individual agency from the law and spawned a multimillion-dollar consulting industry. The statistical basis on which it rests is now crumbling, but don’t expect its influence to wane anytime soon.
 
 [Read the source article with my highlights](https://share.getliner.com/V34ME).

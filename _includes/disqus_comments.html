@@ -1,6 +1,7 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
-  <div id="disqus_thread"></div>
+  <div style="width:584">
+  <div id="disqus_thread" style="margin-top:20px"></div>
   <script>
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
@@ -14,4 +15,5 @@
     })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
 {% endif %}

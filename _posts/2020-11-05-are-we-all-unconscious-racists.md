@@ -13,7 +13,7 @@ modified_time: '2020-11-06T08:16:03.492-05:00'
 blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-2339762106981941544
 blogger_orig_url: https://www.sparl.in/2020/11/are-we-all-unconscious-racists.html
 header:
-  teaser: https://i.imgur.com/4SYyJYV.png
+  teaser: /assets/images/racist.png
 ---
 
 A deep dive into the science behind implicit bias.

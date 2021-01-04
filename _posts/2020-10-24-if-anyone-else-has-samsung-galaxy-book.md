@@ -6,12 +6,9 @@ author: Sonny Parlin
 categories:
   - Blog
 tags:
-- headphones not working
-- systemd
 - fedora
 - linux
 - bash
-- no sound
 modified_time: '2020-10-25T00:44:25.890-04:00'
 blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-634707510706044153
 blogger_orig_url: https://www.sparl.in/2020/10/if-anyone-else-has-samsung-galaxy-book.html

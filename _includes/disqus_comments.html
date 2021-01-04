@@ -1,6 +1,8 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
-  <div style="width:584">
+  <div style="float: right;
+    width: calc(100% - 200px);
+    padding-right: 200px;">
   <div id="disqus_thread" style="margin-top:20px"></div>
   <script>
     var disqus_config = function () {

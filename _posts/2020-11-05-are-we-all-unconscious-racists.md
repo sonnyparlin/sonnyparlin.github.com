@@ -18,7 +18,7 @@ header:
 
 A deep dive into the science behind implicit bias.
 
-[![](https://i.imgur.com/4SYyJYV.png)](https://i.imgur.com/4SYyJYV.png)
+[![](/assets/images/racist.png)](/assets/images/racist.png)
 
 > Few academic ideas have been as eagerly absorbed into public discourse in recent years as 'implicit bias.' Embraced by a president, a would-be president, and the nation’s top law-enforcement official, the implicit-bias conceit has launched a movement to remove the concept of individual agency from the law and spawned a multimillion-dollar consulting industry. The statistical basis on which it rests is now crumbling, but don’t expect its influence to wane anytime soon.
 

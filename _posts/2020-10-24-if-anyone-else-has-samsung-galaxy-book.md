@@ -33,7 +33,7 @@ ExecStart=/usr/local/bin/headphones
 WantedBy=basic.target
 ```
 
-<p>As you can see it makes a call to /usr/local/bin/headphones, this file looks like so:</p>
+As you can see it makes a call to /usr/local/bin/headphones, this file looks like so:
 
 ```bash   
 [root@localhost ~]# cat /usr/local/bin/headphones
@@ -43,7 +43,7 @@ WantedBy=basic.target
 
 Make sure to make the file executable: chmod +x /usr/local/bin/headphones
 
-We still need to install acpid:</p>
+We still need to install acpid:
 
 ```bash
 sudo dnf install acpid

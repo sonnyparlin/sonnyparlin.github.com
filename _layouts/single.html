@@ -68,7 +68,8 @@ layout: default
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
-    <div class="page__related">
+    <div class="page__related" style="width: calc(100% - 200px);margin: 0 auto; clear: both; width: calc(100% - 200px) !important;
+    padding-right: 200px;float: right;margin-top: 2em;padding-top: 1em;border-top: 1px solid #f2f3f3; !important">
       <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}

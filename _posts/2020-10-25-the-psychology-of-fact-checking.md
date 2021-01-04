@@ -14,6 +14,8 @@ modified_time: '2020-10-26T13:06:40.514-04:00'
 thumbnail: https://1.bp.blogspot.com/-pz78pAkXEu4/X5ZHEoZdSWI/AAAAAAABSro/4gDlR0xXgUkhqU66hFPFhlptICxXEoEtgCLcBGAsYHQ/s72-w320-c-h198/facts-960.png
 blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-629839649657937787
 blogger_orig_url: https://www.sparl.in/2020/10/the-psychology-of-fact-checking.html
+header:
+  teaser: https://1.bp.blogspot.com/-pz78pAkXEu4/X5ZHEoZdSWI/AAAAAAABSro/4gDlR0xXgUkhqU66hFPFhlptICxXEoEtgCLcBGAsYHQ/s960/facts-960.png
 ---
 
 [![](https://1.bp.blogspot.com/-pz78pAkXEu4/X5ZHEoZdSWI/AAAAAAABSro/4gDlR0xXgUkhqU66hFPFhlptICxXEoEtgCLcBGAsYHQ/w320-h198/facts-960.png)](https://1.bp.blogspot.com/-pz78pAkXEu4/X5ZHEoZdSWI/AAAAAAABSro/4gDlR0xXgUkhqU66hFPFhlptICxXEoEtgCLcBGAsYHQ/s960/facts-960.png)  

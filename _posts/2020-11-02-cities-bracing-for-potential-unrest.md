@@ -14,6 +14,8 @@ modified_time: '2020-11-02T15:40:24.381-05:00'
 thumbnail: https://1.bp.blogspot.com/-Jnb5ofQ3HEo/X6BrM0b5qwI/AAAAAAABSwQ/2z8nZzWbXmYK00gACHQWUwagq58xpYrngCLcBGAsYHQ/s72-c/Gun_violence.jpg
 blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-495839577905293561
 blogger_orig_url: https://www.sparl.in/2020/11/cities-bracing-for-potential-unrest.html
+header:
+  teaser: https://1.bp.blogspot.com/-Jnb5ofQ3HEo/X6BrM0b5qwI/AAAAAAABSwQ/2z8nZzWbXmYK00gACHQWUwagq58xpYrngCLcBGAsYHQ/s320/Gun_violence.jpg
 ---
 
 [![](https://1.bp.blogspot.com/-Jnb5ofQ3HEo/X6BrM0b5qwI/AAAAAAABSwQ/2z8nZzWbXmYK00gACHQWUwagq58xpYrngCLcBGAsYHQ/s320/Gun_violence.jpg)](https://1.bp.blogspot.com/-Jnb5ofQ3HEo/X6BrM0b5qwI/AAAAAAABSwQ/2z8nZzWbXmYK00gACHQWUwagq58xpYrngCLcBGAsYHQ/s800/Gun_violence.jpg)

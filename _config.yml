@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am Sonny Parlin, a Jiu Jitsu black belt and the owner/head instructor of Gracie Bradenton. I'm also a software engineer into data science and politics.
 twitter_username: sonnyparlin
 github_username: sonnyparlin
-minimal_mistakes_skin: default
+minimal_mikstakes_skin: contrast
 search: true
 
 # Build settings

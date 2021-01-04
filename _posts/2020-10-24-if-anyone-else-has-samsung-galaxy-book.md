@@ -41,7 +41,15 @@ WantedBy=basic.target
 /usr/bin/hda-verb /dev/snd/hwC0D0 0x1a SET_PIN_WIDGET_CONTROL 0x5
 ```
 
-<p>Make sure to make the file executable: chmod +x /usr/local/bin/headphones</p> <p>We still need to install acpid:</p> <p>`sudo dnf install acpid`</p> <p>Now create the corresponding scripts to detect when headphones have been plugged/unplugged:</p>
+Make sure to make the file executable: chmod +x /usr/local/bin/headphones
+
+We still need to install acpid:</p>
+
+```bash
+sudo dnf install acpid
+```
+
+Now create the corresponding scripts to detect when headphones have been plugged/unplugged:
 
 ```bash    
 [sonnyparlin@localhost ~]$ cat /etc/acpi/events/headphone_jack
@@ -49,7 +57,7 @@ event=jack/headphone.*
 action=/etc/acpi/actions/headphone.sh
 ```
 
-<p>The action points to /etc/acpi/actions/headphone.sh, which looks like so:</p>
+The action points to /etc/acpi/actions/headphone.sh, which looks like so:
 
 ```bash
 [sonnyparlin@localhost ~]$ cat /etc/acpi/actions/headphone.sh
@@ -57,9 +65,9 @@ action=/etc/acpi/actions/headphone.sh
 /usr/local/bin/headphones
 ```
 
-<p>Don't forget to make it executable chmod +x /etc/acpi/actions/headphone.sh</p>
+Don't forget to make it executable chmod +x /etc/acpi/actions/headphone.sh
 
-<p>Now let's make sure it works after suspend:</p>
+Now let's make sure it works after suspend:
 
 ```bash    
 [sonnyparlin@localhost ~]$ cat /usr/lib/systemd/system-sleep/headphones.sh
@@ -70,10 +78,9 @@ if [ "${1}" == "post" ]; then
 fi
 ```
 
-<p>I'm pretty sure that's it, it took me 3 days to come up with all this and browsing various forums and solutions. The only thing I've noticed is that if the headphones are plugged in when you boot up, you may have to log in as root and manually type:</p>
+I'm pretty sure that's it, it took me 3 days to come up with all this and browsing various forums and solutions. The only thing I've noticed is that if the headphones are plugged in when you boot up, you may have to log in as root and manually type:
 
 ```bash
 /usr/local/bin/headphones
 ```
-
-<p>And that will solve the problem. If you boot up without headphones, turn on some music then plug your headphones in, it should switch over and give you sound. I hope this helps someone.</p>
+And that will solve the problem. If you boot up without headphones, turn on some music then plug your headphones in, it should switch over and give you sound. I hope this helps someone.

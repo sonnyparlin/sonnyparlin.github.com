@@ -24,12 +24,6 @@ fields:
   name: modified_time
   label: modified_time
 - type: text
-  name: blogger_id
-  label: blogger_id
-- type: text
-  name: blogger_orig_url
-  label: blogger_orig_url
-- type: text
   name: teaser
   config:
     required: false

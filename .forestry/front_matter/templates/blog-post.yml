@@ -28,3 +28,5 @@ fields:
   config:
     required: false
   label: header
+pages:
+- _posts/help-me-make-a-difference-to-the-grappling-arts.md

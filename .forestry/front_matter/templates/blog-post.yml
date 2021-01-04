@@ -29,9 +29,8 @@ fields:
 - type: text
   name: blogger_orig_url
   label: blogger_orig_url
-- type: header
+- type: text
   name: teaser
-  type: text
   config:
     required: false
   label: header

@@ -12,6 +12,8 @@ tags:
 modified_time: '2020-12-06T17:44:32.339-05:00'
 blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-8666780516968238316
 blogger_orig_url: https://www.sparl.in/2020/12/i-caught-kung-flu.html
+header:
+  teaser: /assets/images/covid.png
 ---
 
 I have Covid-19. I tested positive on the 3rd. The tell tale sign for me was not tasting my food. Yes, I've been feeling like shit, but no issues breathing, not even coughing and I never had a temperature, not even when they tested me.

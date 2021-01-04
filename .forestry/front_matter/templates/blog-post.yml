@@ -1,0 +1,31 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: datetime
+  name: modified_time
+  label: modified_time
+- type: text
+  name: blogger_id
+  label: blogger_id
+- type: text
+  name: blogger_orig_url
+  label: blogger_orig_url

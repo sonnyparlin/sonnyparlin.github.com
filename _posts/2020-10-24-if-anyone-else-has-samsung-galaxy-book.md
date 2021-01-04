@@ -17,7 +17,9 @@ blogger_id: tag:blogger.com,1999:blog-274791723093518550.post-634707510706044153
 blogger_orig_url: https://www.sparl.in/2020/10/if-anyone-else-has-samsung-galaxy-book.html
 ---
 
-<p>Okay if anyone else has a Samsung Galaxy Book Flex ⍺ running Fedora 32/33 and runs into the issue of getting no sound in your headphones, I have a solution/workaround that is satisfying enough for me. First let's get the headphones working on boot.</p> <p>Create a service like so:</p>
+Okay if anyone else has a Samsung Galaxy Book Flex ⍺ running Fedora 32/33 and runs into the issue of getting no sound in your headphones, I have a solution/workaround that is satisfying enough for me. First let's get the headphones working on boot.
+
+Create a service like so:
 
 ```bash
 [root@localhost ~]# cat /usr/lib/systemd/system/headphones.service

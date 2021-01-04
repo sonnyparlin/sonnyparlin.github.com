@@ -41,7 +41,11 @@ As you can see it makes a call to /usr/local/bin/headphones, this file looks lik
 /usr/bin/hda-verb /dev/snd/hwC0D0 0x1a SET_PIN_WIDGET_CONTROL 0x5
 ```
 
-Make sure to make the file executable: chmod +x /usr/local/bin/headphones
+Make sure to make the file executable:
+
+```bash
+chmod +x /usr/local/bin/headphones
+```
 
 We still need to install acpid:
 

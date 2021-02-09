@@ -3,7 +3,8 @@ layout: single
 title: Help me make a difference to the grappling arts
 date: 2021-01-01 17:45:00 -0500
 author: Sonny Parlin
-categories: []
+categories:
+- blog
 tags:
 - pandemic
 - lockdowns

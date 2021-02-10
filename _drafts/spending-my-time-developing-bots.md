@@ -30,4 +30,4 @@ header:
 on `In Danger` to notify your emergency contacts that you're in danger. They will receive your request with your current location. Clicking
 the map will open a new screen with a larger map and an option for directions, which will open up your maps app.
 
-![](https://i.imgur.com/Rl5Td7O.png){:width="270px"} ![](https://i.imgur.com/WdvbKbc.png){:width="270px"} ![](https://i.imgur.com/wkQAE5Q.png){:width="250px"} ![](https://i.imgur.com/a01WEm0.png){:width="250px"} ![](https://i.imgur.com/T3Wlnwr.png){:width="250px"} ![](https://i.imgur.com/mjDHIkZ.png){:width="250px"} ![](https://i.imgur.com/XbelsVj.png){:width="250px"} ![](https://i.imgur.com/xpRCjbW.png){:width="250px"}
+![](https://i.imgur.com/Rl5Td7O.png){:width="300px"} ![](https://i.imgur.com/WdvbKbc.png){:width="300px"} ![](https://i.imgur.com/wkQAE5Q.png){:width="250px"} ![](https://i.imgur.com/a01WEm0.png){:width="250px"} ![](https://i.imgur.com/T3Wlnwr.png){:width="250px"} ![](https://i.imgur.com/mjDHIkZ.png){:width="250px"} ![](https://i.imgur.com/XbelsVj.png){:width="250px"} ![](https://i.imgur.com/xpRCjbW.png){:width="250px"}

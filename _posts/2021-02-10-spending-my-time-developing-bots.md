@@ -43,4 +43,5 @@ This bot can interact with Github gists. You can view gists, create gists and mo
 
 ![](/uploads/screenshot_20210210-170116.png){:width="300px"}  ![](/uploads/screenshot_20210210-170128.png){:width="300px"}   ![](/uploads/screenshot_20210210-170448.png){:width="300px"}   ![](/uploads/screenshot_20210210-170606.png){:width="300px"}
 
-Both bots were developed using Python and the Python Telegram Bot api.
+Both bots were developed using Python and the [Python Telegram Bot](https://python-telegram-bot.org/ "https://python-telegram-bot.org/") API.
+

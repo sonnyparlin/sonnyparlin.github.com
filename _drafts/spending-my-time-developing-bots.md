@@ -30,11 +30,4 @@ header:
 on `In Danger` to notify your emergency contacts that you're in danger. They will receive your request with your current location. Clicking
 the map will open a new screen with a larger map and an option for directions, which will open up your maps app.
 
-![](https://i.imgur.com/Rl5Td7O.png)
-![](https://i.imgur.com/WdvbKbc.png)
-![](https://i.imgur.com/wkQAE5Q.png)
-![](https://i.imgur.com/a01WEm0.png)
-![](https://i.imgur.com/T3Wlnwr.png)
-![](https://i.imgur.com/mjDHIkZ.png)
-![](https://i.imgur.com/XbelsVj.png)
-![](https://i.imgur.com/xpRCjbW.png)
+![](https://i.imgur.com/Rl5Td7O.png) ![](https://i.imgur.com/WdvbKbc.png) ![](https://i.imgur.com/wkQAE5Q.png) ![](https://i.imgur.com/a01WEm0.png) ![](https://i.imgur.com/T3Wlnwr.png) ![](https://i.imgur.com/mjDHIkZ.png) ![](https://i.imgur.com/XbelsVj.png) ![](https://i.imgur.com/xpRCjbW.png)

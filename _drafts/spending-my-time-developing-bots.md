@@ -40,4 +40,4 @@ the map will open a new screen with a larger map and an option for directions, w
 
 This bot can interact with Github gists. You can view gists, create gists and more. In order to access your Github account through Telegram, you'll need a personal access token from Github. You can get one for free here: https://github.com/settings/tokens/new (make sure to check the gist box). Bot developed by http://sonnygrapples, http://t.me/sonnyjitsu support available at http://t.me/gistcontrollerbottalk.
 
-![](/uploads/screenshot_20210210-170116.png){:width="300px"}  ![](/uploads/screenshot_20210210-170128.png){:width="300px"}   ![](/uploads/screenshot_20210210-170448.png){:width="300px"}   ![](/uploads/screenshot_20210210-170549.png)
+![](/uploads/screenshot_20210210-170116.png){:width="300px"}  ![](/uploads/screenshot_20210210-170128.png){:width="300px"}   ![](/uploads/screenshot_20210210-170448.png){:width="300px"}   ![](/uploads/screenshot_20210210-170549.png){:width="300px"}

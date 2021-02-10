@@ -30,3 +30,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/spending-my-time-developing-bots.md

@@ -31,3 +31,9 @@ on `In Danger` to notify your emergency contacts that you're in danger. They wil
 the map will open a new screen with a larger map and an option for directions, which will open up your maps app.
 
 ![](https://i.imgur.com/Rl5Td7O.png){:width="300px"}  ![](https://i.imgur.com/WdvbKbc.png){:width="300px"}  ![](https://i.imgur.com/wkQAE5Q.png){:width="300px"}  ![](https://i.imgur.com/a01WEm0.png){:width="300px"}  ![](https://i.imgur.com/T3Wlnwr.png){:width="300px"}  ![](https://i.imgur.com/mjDHIkZ.png){:width="300px"}  ![](https://i.imgur.com/XbelsVj.png){:width="300px"}  ![](https://i.imgur.com/xpRCjbW.png){:width="300px"}
+
+# gistControllerbot
+
+## Gist Controller bot for Telegram
+
+This bot can interact with Github gists. You can view gists, create gists and more. In order to access your Github account through Telegram, you'll need a personal access token from Github. You can get one for free here: https://github.com/settings/tokens/new (make sure to check the gist box). Bot developed by @sonnygrapples, t.me/sonnyjitsu

@@ -16,8 +16,6 @@ header:
 ---
 During the last few weeks I've been practicing up on my Python coding by creating a couple of Telegram bots. It's been a good way to keep my mind off of politics and get back to exercising the muscle between my ears. So far I've developed two bots.
 
-# sendhelp_bot
-
 ## Send Help Now bot for Telegram
 
 1. First Create a private or public group or channel, I created a private group called *Emergency*
@@ -36,8 +34,6 @@ the map will open a new screen with a larger map and an option for directions, w
 
 <br/>
 ---
-
-# gistControllerbot
 
 ## Gist Controller bot for Telegram
 

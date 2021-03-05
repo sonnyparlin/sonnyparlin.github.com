@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Sonny Parlin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am Sonny Parlin, a Jiu Jitsu black belt and the owner/head instructor of Gracie Bradenton. I'm also a software e    ngineer into data science and politics."
+  bio    : "I am Sonny Parlin, a Jiu Jitsu black belt and the owner/head instructor of Gracie Bradenton. I'm also a full stack web developer with a preference for data science apps written in Python."
   links:
     - label: "sonnyparlin.com"
       icon: "fas fa-fw fa-link"
